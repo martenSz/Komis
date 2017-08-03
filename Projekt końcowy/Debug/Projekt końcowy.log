@@ -1,0 +1,31 @@
+﻿  Sprzedaz.cpp
+  Source.cpp
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(61): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(135): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(226): warning C4018: '>': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(324): warning C4018: '>': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(352): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(418): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\source.cpp(431): warning C4018: '<': signed/unsigned mismatch
+  Samochod.cpp
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\samochod.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\samochod.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\samochod.cpp(246): warning C4018: '<': signed/unsigned mismatch
+  Pojazd.cpp
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\pojazd.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  Motocykl.cpp
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\motocykl.cpp(110): warning C4018: '<': signed/unsigned mismatch
+  Edycja.cpp
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\edycja.cpp(11): warning C4018: '>=': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\edycja.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\x\documents\visual studio 2015\projects\vs2012 - projects\programowaniekrzysiek\projektkońcowy backup'y\komis\projekt końcowy\edycja.cpp(69): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Projekt końcowy.vcxproj -> C:\Users\X\Documents\Visual Studio 2015\Projects\vs2012 - projects\ProgramowanieKrzysiek\ProjektKońcowy Backup'y\Komis\Debug\Projekt końcowy.exe
